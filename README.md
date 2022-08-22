@@ -25,7 +25,7 @@ Note:
 
 If you want to run this script at windows startup, just put screenshot.bat file in startup folder of your computer. This will run the script automatically each time your system starts/restarts.
 
-If you dont want the command propmt to be opened each time this script runs automatically, just put screenshot.vbs file in startup folder of your computer (also remove screenshot.bat file from startup folder if had had put it earlier).
+If you dont want the command propmt to be opened each time this script runs automatically, just put screenshot.vbs file in startup folder of your computer (also remove screenshot.bat file from startup folder if you had put it earlier).
 
 
 
